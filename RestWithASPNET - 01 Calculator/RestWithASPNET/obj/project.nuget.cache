@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gdi/Dh57Lbjdciq8DlM9nOt0oASHL8lDPGHtTL7AvmaUXXO+jOqveHswbyxkxZ6uosAGoOlqsAWgDMBTRfRFEA==",
+  "dgSpecHash": "PLPx5hqdfHEpEIOjeUC5t937xorlzwEuUZU1sdlggWD6yTW2rfUEcuEeVAuKZrGB2FzcHaeElmKIaeW6zCCqyA==",
   "success": true,
-  "projectFilePath": "D:\\ProjetoRest\\RestWithASPNET\\RestWithASPNET\\RestWithASPNET.csproj",
+  "projectFilePath": "D:\\ProjetoRest\\RestWithASP.NET\\RestWithASPNET - 01 Calculator\\RestWithASPNET\\RestWithASPNET.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrador.LLEITE\\.nuget\\packages\\microsoft.aspnetcore\\2.1.7\\microsoft.aspnetcore.2.1.7.nupkg.sha512",
     "C:\\Users\\Administrador.LLEITE\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.1.1\\microsoft.aspnetcore.antiforgery.2.1.1.nupkg.sha512",

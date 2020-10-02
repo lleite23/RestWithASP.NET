@@ -8347,11 +8347,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProjetoRest\\RestWithASPNET\\RestWithASPNET\\RestWithASPNET.csproj",
+      "projectUniqueName": "D:\\ProjetoRest\\RestWithASP.NET\\RestWithASPNET - 01 Calculator\\RestWithASPNET\\RestWithASPNET.csproj",
       "projectName": "RestWithASPNET",
-      "projectPath": "D:\\ProjetoRest\\RestWithASPNET\\RestWithASPNET\\RestWithASPNET.csproj",
+      "projectPath": "D:\\ProjetoRest\\RestWithASP.NET\\RestWithASPNET - 01 Calculator\\RestWithASPNET\\RestWithASPNET.csproj",
       "packagesPath": "C:\\Users\\Administrador.LLEITE\\.nuget\\packages\\",
-      "outputPath": "D:\\ProjetoRest\\RestWithASPNET\\RestWithASPNET\\obj\\",
+      "outputPath": "D:\\ProjetoRest\\RestWithASP.NET\\RestWithASPNET - 01 Calculator\\RestWithASPNET\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrador.LLEITE\\AppData\\Roaming\\NuGet\\NuGet.Config",
