@@ -321,7 +321,6 @@ D:\ProjetoRest\RestWithASPNET\RestWithASPNET\obj\Debug\net461\RestWithASPNET.pdb
 D:\ProjetoRest\RestWithASP.NET\RestWithASPNET - 01 Calculator\RestWithASPNET\bin\Debug\net461\app.config
 D:\ProjetoRest\RestWithASP.NET\RestWithASPNET - 01 Calculator\RestWithASPNET\bin\Debug\net461\appsettings.Development.json
 D:\ProjetoRest\RestWithASP.NET\RestWithASPNET - 01 Calculator\RestWithASPNET\bin\Debug\net461\appsettings.json
-D:\ProjetoRest\RestWithASP.NET\RestWithASPNET - 01 Calculator\RestWithASPNET\bin\Debug\net461\Properties\launchSettings.json
 D:\ProjetoRest\RestWithASP.NET\RestWithASPNET - 01 Calculator\RestWithASPNET\bin\Debug\net461\RestWithASPNET.exe.config
 D:\ProjetoRest\RestWithASP.NET\RestWithASPNET - 01 Calculator\RestWithASPNET\bin\Debug\net461\RestWithASPNET.deps.json
 D:\ProjetoRest\RestWithASP.NET\RestWithASPNET - 01 Calculator\RestWithASPNET\bin\Debug\net461\RestWithASPNET.exe
